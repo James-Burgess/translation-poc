@@ -1,0 +1,11 @@
+bottle
+mypkg
+flask
+werkzeug
+requests
+googletrans
+flask-cors
+msrest
+azure
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-vision-customvision
